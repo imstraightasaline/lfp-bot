@@ -4,7 +4,6 @@ const DiscordJS = require('discord.js');
 const { Intents } = require('discord.js');
 const { Permissions } = require('discord.js');
 const { MessageEmbed } = require('discord.js');
-const keepAlive = require('./server.js');
 const WOKCommands = require('wokcommands');
 const path = require('path');
 
