@@ -23,7 +23,7 @@ module.exports = {
       { name: 'v0.1.4 | 10/5/2022', value: 'Added delete cooldown and done command.'},
       { name: 'v0.1.5 | 11/5/2022', value: 'Fixed the cooldowns.'}
     )
-    .setFooter({ text: "Created and managed by Tom27#3897"})
+    .setFooter({ text: "Created and managed by #####"})
     .setTimestamp();
 
     if(message){
