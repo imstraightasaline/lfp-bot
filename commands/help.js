@@ -19,7 +19,7 @@ module.exports = {
       { name: 'General:', value: '\`help/commands/info\` - Shows basic information and commands.\n\`lfp\` - See <#972516041043374152> pins for more info.\n\`done\` - See <#972516041043374152> pins for more info.\n\`changelog/changelogs\` - Shows the changes made in the bot over time.'},
       { name: 'Administrative (admins only duh)', value: '\`logs\` - Shows the bot\'s logs.\n\`blacklist/bl\` - Blacklists a user from requesting.\n\`unblacklist/unbl\` - Unblacklists a user.\n\`delcooldown\` - Deletes the request cooldown.'}
     )
-    .setFooter({ text: `Created and managed by Tom27#3897 | v0.1.5` })
+    .setFooter({ text: `Created and managed by ######## | v0.1.5` })
     .setTimestamp();
 
     if(message){
